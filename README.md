@@ -53,3 +53,5 @@ Here, I've documented my journey through the JP Morgan Software Engineering Virt
 ---
 
 ## Certificate
+![image](https://github.com/nightcoder26/jpmc-swe-virtual-exp/assets/77844703/7c99e2f7-ebe9-4b4e-92c2-01dbc04bc828)
+
